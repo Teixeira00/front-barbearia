@@ -37,3 +37,8 @@
 .return:hover {
     color: #e0bc8d;
 }
+
+.error{
+    color: rgb(226, 65, 65);
+    font-weight: bold;
+}
